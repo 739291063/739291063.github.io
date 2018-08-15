@@ -22,6 +22,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: Nyangawa/theme
 
 include:
   - test.html
