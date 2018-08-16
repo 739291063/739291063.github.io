@@ -28,7 +28,7 @@ remote_theme: Nyangawa/theme
 
 include:
   - test.html
-  - include.html
+  - default.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
