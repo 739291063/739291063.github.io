@@ -30,6 +30,8 @@ include:
   - default.html
   - env.html
   - fstab.html
+  - resolv.html
+  - passwd.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
