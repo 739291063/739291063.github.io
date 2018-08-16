@@ -29,6 +29,7 @@ remote_theme: Nyangawa/theme
 include:
   - default.html
   - env.html
+  - fstab.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
