@@ -33,6 +33,7 @@ include:
   - resolv.html
   - passwd.html
   - hosts.html
+  - secrets.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
