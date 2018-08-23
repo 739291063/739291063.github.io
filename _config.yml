@@ -24,7 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: Nyangawa/theme
+remote_theme: 739291063/theme
 # remote_theme: benbalter/retlab
 
 include:
