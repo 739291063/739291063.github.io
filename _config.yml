@@ -19,6 +19,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
+kramdown:
+  syntax_highlighter:
+    - nyangawa:test
+
 plugins:
   - jekyll-mentions
   - jemoji
