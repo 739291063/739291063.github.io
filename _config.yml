@@ -28,13 +28,7 @@ remote_theme: 739291063/theme
 # remote_theme: benbalter/retlab
 
 include:
-  - default.html
-  - env.html
-  - fstab.html
-  - resolv.html
-  - passwd.html
-  - hosts.html
-  - secrets.html
+  - .nyangawa.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
