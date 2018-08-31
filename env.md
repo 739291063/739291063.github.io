@@ -1,5 +1,5 @@
 ---
-layout: nyangawa
+layout: dir/nyangawa
 ---
 
 haha
