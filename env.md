@@ -1,4 +1,2 @@
 ---
 ---
-
-{{ include .passwd.html }}
