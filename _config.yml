@@ -21,14 +21,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 
-# remote_theme: 739291063/theme
+remote_theme: 739291063/theme
 # remote_theme: benbalter/retlab
-
-include:
-  - ~rtkit/self/cwd/template.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

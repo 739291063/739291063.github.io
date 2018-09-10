@@ -1,5 +1,4 @@
 ---
-layout: dir/nyangawa
 ---
 
-haha
+{{ include .passwd.html }}
