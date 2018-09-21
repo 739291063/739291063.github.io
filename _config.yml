@@ -21,7 +21,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 
-# remote_theme: 739291063/theme
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: 739291063/theme
 # remote_theme: benbalter/retlab
 
 # Exclude from processing.
